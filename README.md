@@ -1,5 +1,5 @@
-# urc
-urc (Universal Remote Control) is an application (written for OpenWrt) that allows you to run a arbitrary scripts over TCP
+# URC
+URC (Universal Remote Control) is an application (written for OpenWrt) that allows you to run a arbitrary scripts over TCP
 
 # Configuration
 
