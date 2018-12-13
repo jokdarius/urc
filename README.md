@@ -1,5 +1,5 @@
-# hot_manager
-hot_manager is an application (written for OpenWrt) that allows you to run a arbitrary scripts over TCP
+# urc
+urc (Universal Remote Control) is an application (written for OpenWrt) that allows you to run a arbitrary scripts over TCP
 
 # Configuration
 
